@@ -23,7 +23,7 @@ sudo apt install opencv-python
 
 
 * **Models**
-* Due to the limitation of the volume, we put trained models as wellas extracted features in the [Google Drive]()
+* Due to the limitation of the volume, we put trained models as wellas extracted features in the [Google Drive](https://drive.google.com/open?id=1y1U0QvATyppVD1IvNcizq6X6QyjuN89g)
 * Pleas put those data files in the same directory of the notebooks.
 
 Example files:
